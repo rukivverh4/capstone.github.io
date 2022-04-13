@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Vitaliy's CS-499 Final Project
 
 You can use the [editor on GitHub](https://github.com/rukivverh4/capstone.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
