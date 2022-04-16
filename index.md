@@ -37,7 +37,10 @@ Behind the scenes, it saves inputted subscribe data into a newly created userdat
 ![DImage](Dimage3.jpg)
   
 Throughout the Computer Science degree program, I have learned that security is extremely important in every field. I have built a security mindset and was aware of it when I was working on this project. To enhance the security of my HTML web page I have created encrypted secured login. So, whenever a user signs into their account, their password is encrypted and not visible to others. 
+
+![SImage](Simage.jpg)
  
 To improve the security of the data structure, I have encrypted one of the HTML pages. I did not encrypt all of them because we won't be able to read the code while it is encrypted. As well, I have commented on HTML and PHP code to explain what each block of code does. For additional security, I have added visual copyright on every page.
- 
- 
+
+![SImage](Simage2.jpg)
+![SImage](Simage3.jpg)
