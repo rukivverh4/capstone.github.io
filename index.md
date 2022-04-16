@@ -19,6 +19,7 @@ The experience from this category is that I have learned how I can manipulate th
 For Algorithms and Data Structure, I had to come up with a solution that would solve a given problem in my code. I have learned that HTML itself does not use algorithms. So, I had to come up with another language to use along with HTML. I have decided to use PHP. Since I did not learn PHP in my previous class, I had to learn the basics of it on the go. However, I found PHP a little bit challenging for me. To showcase my skills and shine in this category I have decided to add a conditional “if” statement to my code to validate the email format inputted by the user. If the email is in the valid form, it’ll print that the “email is valid”. If the format of an email is not valid, it should give a user a message “email is not valid”.
  
  ![ADSImage](ADSimage.jpg)
+ 
  ![ADSImage](ADSimage2.jpg)
  
 From my experience and for a best practice, I have learned that it is a good thing to test your code as you go. Using HTML and PHP, I had one screen opened with my code, and on the other screen, I had my web page pulled up. So, whenever I make changes in the code or when I added another block of code, I always refreshed my web page on the other screen to see if my code still works or if it'll give me an error.  
@@ -26,8 +27,14 @@ From my experience and for a best practice, I have learned that it is a good thi
 **Databases**
 
 For the Database category, I have chosen to add a table form on the subscribe page that would store user-inputted data into a text file or Excel file in the same folder. To solve this logic problem, I have created HTML and PHP code. HTML form code gets all information and POST it into PHP code, along with a welcome message. Then PHP code writes information into a text document.  
+
+![DImage](Dimage.jpg)
  
 Behind the scenes, it saves inputted subscribe data into a newly created userdata.txt file.
+
+![DImage](Dimage2.jpg)
+
+![DImage](Dimage3.jpg)
   
 Throughout the Computer Science degree program, I have learned that security is extremely important in every field. I have built a security mindset and was aware of it when I was working on this project. To enhance the security of my HTML web page I have created encrypted secured login. So, whenever a user signs into their account, their password is encrypted and not visible to others. 
  
