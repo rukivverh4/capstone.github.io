@@ -10,6 +10,8 @@ For the Software Design/Engineering category, I chose to design and engineer my 
 
  ![SDEImage](SDEimage.jpg)
  
+ ![SDEImage](SDEimage2.jpg)
+ 
 The experience from this category is that I have learned how I can manipulate the code even more to shape my navigation buttons and other things. The best practice to overcome challenges is to think from the user/viewer angle. I have asked myself what I would like to see on the page and how I would like to see it. 
 
 **Algorithms and Data Structure**
