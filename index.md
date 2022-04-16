@@ -10,6 +10,12 @@ Coming into Computer Science, I had some experience in the networking field. My 
 
 I have learned about security and how important it is. Cyber security engineers have to keep their equipment updated and monitored all the time. I have learned what algorithms are and their importance. Algorithms in the data structure can save time, eliminate unnecessary code lines, and they can make the program run more efficiently. In another class we learned databases and how to CRUD data. How to manipulate data to get wanted outcome results. I look forward to what I can accomplish with my knowledge in the real world now. 
 
+## **Project Links**
+
+Original Code
+[Original Code] (https://github.com/rukivverh4/capstone.github.io/blob/gh-pages/Final%20-%20Original%20Code.zip)
+
+
 ## **Project Intro**
 
 My artifact is the website I built during my CS-270 Web Site Design class. I have created one main home page and five other pages that you can access from it. The website is about the local woodworking shop and their items for sale. It includes different links for navigating around the site. I have decided to use this artifact over the other ones because I was more confident about it in the beginning. HTLM was one of the easiest languages to learn and understand for me. Diving more into the assignments, I have noticed that it’ll be a challenge. Although, I was excited to start working on it. 
