@@ -4,7 +4,9 @@
 
 ## **Professional Self-Assessment**
 
+When I came to SNHU, I planned only to get my two-year degree in Information Technology just to prove to myself that I can do it. A few months later I have been promoted to Network Technician within my company. Another few months later I started getting a passion for this field and started looking into different BS degrees in the technology field. After researching and reading more about different degrees I leaned more toward Computer Science. I read that with a Computer Science degree I can almost work in any IT field. 
 
+Coming into Computer Science, I had some experience in the networking field. My background gave me a passion for the Computer Science field. During these four-plus years, I have learned a lot about Computer Science and its different fields. I have learned a few different languages, and how to read, build, and understand the basics of coding. I have learned HTML, C++, Java, and Python. Throughout my Computer Science capstone class, I have learned the basics of PHP and how it works with HTML.
 
 
 ## **Project Intro**
