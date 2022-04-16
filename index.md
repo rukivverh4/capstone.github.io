@@ -8,6 +8,7 @@ When I came to SNHU, I planned only to get my two-year degree in Information Tec
 
 Coming into Computer Science, I had some experience in the networking field. My background gave me a passion for the Computer Science field. During these four-plus years, I have learned a lot about Computer Science and its different fields. I have learned a few different languages, and how to read, build, and understand the basics of coding. I have learned HTML, C++, Java, and Python. Throughout my Computer Science capstone class, I have learned the basics of PHP and how it works with HTML.
 
+I have learned about security and how important it is. Cyber security engineers have to keep their equipment updated and monitored all the time. I have learned what algorithms are and their importance. Algorithms in the data structure can save time, eliminate unnecessary code lines, and they can make the program run more efficiently. In another class we learned databases and how to CRUD data. How to manipulate data to get wanted outcome results. I look forward to what I can accomplish with my knowledge in the real world now. 
 
 ## **Project Intro**
 
