@@ -7,7 +7,7 @@ My artifact is the website I built during my CS-270 Web Site Design class. I hav
 **Software Design / Engineering**
 
 For the Software Design/Engineering category, I chose to design and engineer my website even more. I have edited the navigation buttons at the top of the page to make them stand out for the user. To make it more appealing to the viewer, I have adjusted some of the text with the proper format. I have added the “Back” option on every page to make it easier for a user to navigate to a previously viewed page. To add to that, I have added a search option on the main page. In the background, in the code itself, I have alternative tags for pictures and added more comments throughout the code. Commenting on the code makes it easier for any developer to read and work on the code. It explains what each block of code does.
- 
+ ![SDEImage](/gh-pages/SDEimage.jpg)
  
 The experience from this category is that I have learned how I can manipulate the code even more to shape my navigation buttons and other things. The best practice to overcome challenges is to think from the user/viewer angle. I have asked myself what I would like to see on the page and how I would like to see it. 
 
