@@ -2,9 +2,12 @@
 
 ## **7-1 Final Project Submission**
 
-## **Project Files**
+## **Professional Self-Assessment**
 
-![SDEImage](Final - Original Code.zip)
+
+
+
+## **Project Intro**
 
 My artifact is the website I built during my CS-270 Web Site Design class. I have created one main home page and five other pages that you can access from it. The website is about the local woodworking shop and their items for sale. It includes different links for navigating around the site. I have decided to use this artifact over the other ones because I was more confident about it in the beginning. HTLM was one of the easiest languages to learn and understand for me. Diving more into the assignments, I have noticed that it’ll be a challenge. Although, I was excited to start working on it. 
 
